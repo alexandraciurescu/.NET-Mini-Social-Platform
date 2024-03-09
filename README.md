@@ -1,5 +1,5 @@
 # **Mini Social Platform** - *Connext*
----
+
 
 Connext is a platform that promotes real-time interaction through a dynamic social environment. This platform provides users with the ability to create public or private profiles, connect with other users,share content and leave comments. Connext offers a simplified experience focused on social interaction, facilitating connections and communication among its members. To achieve this goal, our team has adopted an agile approach, focusing on the Scrum methodology. The project was structured into weekly sprints, where priorities and requirements were established at the beginning of each sprint, ensuring flexibility in case of changes.
 
